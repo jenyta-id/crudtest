@@ -57,7 +57,7 @@ Proyek ini adalah contoh implementasi sebuah website CRUD sederhana yang memanfa
 ## Penggunaan
 1. Clone agar dapat menjalankan skrip ini
    ```bash
-	$ git clone git@github.com:jenyta-id/crudtest.git
+   $ git clone git@github.com:jenyta-id/crudtest.git
    ```
  
 1. Letakkan seluruh file proyek ini dalam direktori web server Anda
