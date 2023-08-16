@@ -5,9 +5,9 @@
 Proyek ini adalah contoh implementasi sebuah website CRUD sederhana yang memanfaatkan PHP sebagai bahasa pemrograman server dan MySQL sebagai basis data. Website ini memiliki fungsi untuk menambahkan, melihat, mengedit, dan menghapus data biodata pribadi seperti nama, umur, dan email.
 
 ## Fitur-fitur
-- `add` &mdash; menambahkan data baru dengan informasi nama, umur, dan email.
-- `homepage` &mdash; melihat daftar data yang sudah ada dengan informasi nama, umur, dan email.
-- `edit` &mdash; mengedit data yang sudah ada dengan memperbarui nama, umur, dan email.
+- `create` &mdash; menambahkan data baru dengan informasi nama, umur, dan email.
+- `read` &mdash; melihat daftar data yang sudah ada dengan informasi nama, umur, dan email.
+- `update` &mdash; mengedit data yang sudah ada dengan memperbarui nama, umur, dan email.
 - `delete` &mdash; menghapus data yang sudah ada dari daftar.
 
 ## Skema
