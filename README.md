@@ -56,8 +56,8 @@ Proyek ini adalah contoh implementasi sebuah website CRUD sederhana yang memanfa
 
 ## Penggunaan
 1. Clone agar dapat menjalankan skrip ini
-   
-	$ git clone git@github.com:jenyta-id/crudtest.git
+   ```
+	$ git clone git@github.com:jenyta-id/crudtest.git```
  
 1. Letakkan seluruh file proyek ini dalam direktori web server Anda
 	File php yang akan dijalankan harus berada di dalam folder `C:\xampp\htdocs`. Jika file php berada di luar folder htdocs, maka web server tidak bisa mengaksesnya.
