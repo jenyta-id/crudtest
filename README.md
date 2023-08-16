@@ -1,4 +1,5 @@
-Web CRUD sederhana
+# Web CRUD sederhana
+
 
 ## Proyek apa ini?
 Proyek ini adalah contoh implementasi sebuah website CRUD sederhana yang memanfaatkan PHP sebagai bahasa pemrograman server dan MySQL sebagai basis data. Website ini memiliki fungsi untuk menambahkan, melihat, mengedit, dan menghapus data biodata pribadi seperti nama, umur, dan email.
